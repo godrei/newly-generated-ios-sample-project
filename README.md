@@ -1,4 +1,4 @@
-# ios-sample 2
+# ios-sample 3
 
 This repository contains a newly generated Apple Multiplatform App project.
 The project was created using Xcode Version 14.3.1 (14E300c), and serves testing purposes.
